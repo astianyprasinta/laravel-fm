@@ -2,7 +2,7 @@ NAMA : ASTIANY DWI PRASINTA SARI <br>
 NIM : 18090059 <br>
 KELAS : 6A <br>
 LINK HEROKU : https://fm-laravel.herokuapp.com/ <br>
-LINK LAPORAN :
+LINK LAPORAN : https://drive.google.com/file/d/1TYr9VsgUnN5O5UrAsKI1BcY93a20j1FC/view?usp=sharing
 
 
 
